@@ -1,0 +1,23 @@
+@using BOL;
+@using System.Collections.Generic;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    @{
+        List<Book> books=(List<Book>)ViewData["book"];
+            <table border=2>
+                <tr><th>Id</th><th>Name</th></tr>
+            @foreach(Book b in books){
+                 <tr><td>@b.Id</td><td>@b.Name</td><td><a href="DeleteBook/@b.Id" ><button type="button">Delete</button></a></td><td><a href="UpdateBook/@b.Id " ><button type="button">Update</button></a></td></tr>
+            }
+
+
+            </table>
+            <a href="/Book/AddBook"><button type="button">Add Book</button></a>
+    }
+ 
+   </div>

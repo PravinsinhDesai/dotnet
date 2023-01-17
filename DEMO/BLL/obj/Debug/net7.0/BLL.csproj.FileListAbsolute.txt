@@ -1,0 +1,12 @@
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\bin\Debug\net7.0\BLL.deps.json
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\bin\Debug\net7.0\BLL.dll
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\bin\Debug\net7.0\BLL.pdb
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.dll
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\refint\BLL.dll
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\BLL.pdb
+F:\dotnet\Lab\moduleEnd\DEMO\BLL\obj\Debug\net7.0\ref\BLL.dll
